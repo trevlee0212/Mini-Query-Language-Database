@@ -1,7 +1,3 @@
-// 01BD41C3BF016AD7E8B6F837DF18926EC3E83350
-//  main.cpp
-//  p3-logman
-//
 //  Created by Trevor Lee on 10/28/21.
 //  Copyright © 2021 Trevor Lee. All rights reserved.
 //
